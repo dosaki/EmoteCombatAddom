@@ -1,0 +1,18 @@
+## Interface: 80000
+## Title: Emote Combat
+## Author: Tiago 'Dosaki' Correia
+## Version: 0.1
+## SavedVariablesPerCharacter: DosakisEmoteCombatStore
+
+globals.lua
+
+utils/chat-utils.lua
+utils/frame-utils.lua
+utils/element-utils.lua
+
+store/default-store.lua
+store/updatable-store.lua
+store/skills-store.lua
+
+main.lua
+main.xml
